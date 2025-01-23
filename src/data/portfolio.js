@@ -30,8 +30,9 @@ export default [
     link: "https://matchmakerpuzzle.netlify.app/",
   },
   {
-    title: "Jumbo Youtube",
-    imgUrl: "./assets/youtube.png",
-    stack: ["React", "Typescript", "API"],
+    title: "Royal Submarine Battle",
+    imgUrl: "./assets/royal-battle.png",
+    stack: ["React", "Typescript", "Framer Motion"],
+    link: "https://royal-submarine-battle.vercel.app/",
   }
 ];

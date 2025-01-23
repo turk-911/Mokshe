@@ -31,7 +31,7 @@ export default [
   },
   {
     id: "6",
-    title: "Jumbo Youtube",
-    details: "A UI clone of Youtube. It uses youtube's API to fetch all data based on a certain keyword - in this case: React."
+    title: "Royal Submarine Battle",
+    details: "It is an interactive 2 player game made in React and Typescript. Players position there submarines and then get ready for war. Players take turns at throwing bombs at each other's bases and destroying them."
   }
 ];
